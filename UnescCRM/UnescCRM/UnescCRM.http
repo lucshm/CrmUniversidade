@@ -1,0 +1,6 @@
+@UnescCRM_HostAddress = http://localhost:5232
+
+GET {{UnescCRM_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
